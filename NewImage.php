@@ -16,7 +16,7 @@
  * 
  */
 
-class newImage {
+class NewImage {
 
   private $file;
   private $width;
